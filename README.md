@@ -1,6 +1,6 @@
 ---
-name: ANKIT SINGH KANYAL
-institution: GALGOTIAS UNIVERSITY 🚩 
-quote: Great Developers never stop forking and learning
-github_user: ANKIT9761
+name: Dipesh Anil Upadhyay
+institution: University Of Mumbai 🚩 
+quote: Don't Talk Just Show Me The Code
+github_user: dips98
 ---
