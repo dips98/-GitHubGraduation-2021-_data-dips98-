@@ -1,4 +1,3 @@
-# _data-dips98-
 
 ---
 name: Dipesh Anil Upadhyay
