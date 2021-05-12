@@ -1,7 +1,6 @@
-
 ---
-name: Dipesh Anil Upadhyay
-institution: Dilkap College Of Engineering And Management Instiutes 🚩 
-quote: Don't Talk More Just Show The Code 
-github_user: dips98
+name: ANKIT SINGH KANYAL
+institution: GALGOTIAS UNIVERSITY 🚩 
+quote: Great Developers never stop forking and learning
+github_user: ANKIT9761
 ---
